@@ -1,2 +1,2 @@
-* [首页](test/)
-* [指南](test/api)
+* [首页](home/)
+* [前端知识体系](home/guide)
