@@ -31,6 +31,8 @@
 2. VScode
 3. Sublime Text
 
+## Google浏览器插件 
+
 ## 调试工具
 1. Chrome浏览器开发者工具
 2. FireFox浏览器开发者工具
